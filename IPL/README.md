@@ -1,4 +1,4 @@
-# IPL Points Table Project
+# IPL Points Table Project ( A djnago-model based project )
 
 Welcome to the IPL Points Table Project! This project demonstrates how to create an IPL points table using Django models and display it in an HTML template through views functions, leveraging Jinja for templating.
 
