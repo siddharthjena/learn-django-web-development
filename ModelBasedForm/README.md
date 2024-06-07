@@ -34,3 +34,28 @@ The ModelForm project aims to demonstrate the following key aspects:
 6. **Displaying Form:**
    - When a user accesses the form URL, Django renders the form HTML based on the ModelForm.
    - Users can fill out the form, submit data, and view the results.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/siddharthjena/learn-django-web-development.git
+    cd learn-django-web-development/ipl
+    ```
+
+2. **Create a virtual environment and activate it:**
+    ```sh
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+3. **Install the dependencies:**
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+4. **Run the project:**
+    ```sh
+    python manage.py runserver
